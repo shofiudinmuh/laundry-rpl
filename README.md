@@ -1,2 +1,2 @@
 # laundry-rpl
-Aplikasi untuk menangani bisnis laundry berbasis desktop
+Contoh aplikasi untuk menangani bisnis laundry berbasis desktop
